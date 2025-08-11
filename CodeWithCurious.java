@@ -78,7 +78,7 @@ import java.awt.event.*;
                 double d2 = Double.parseDouble(t2.getText());
 
                 // converting Dollars to rupees
-                double d3 = (d2 * 65.25);
+                double d3 = (d2 * 80.25);
 
                 // Getting the string value of the
                 // calculated value
