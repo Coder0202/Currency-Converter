@@ -4,7 +4,7 @@ This Java program creates a simple currency converter using Java Swing to conver
 Here’s a detailed breakdown of what it does:
 
 1. Purpose
-Converts Rupees → Dollars and Dollars → Rupees using fixed exchange rate (1 USD = 65.25 INR).
+Converts Rupees → Dollars and Dollars → Rupees using fixed exchange rate (1 USD = 80.25 INR).
 
 Provides a graphical user interface (GUI) for easy interaction.
 
